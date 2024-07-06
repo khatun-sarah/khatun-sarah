@@ -4,7 +4,6 @@
 🔭 **I’m currently working on:**  <br> - Building a website using React.<br><br>👯 **I’m looking to collaborate on:**  <br> - Fullstack projects<br><br>🌱 **I’m currently learning:**  <br> - React.<br><br>💬 **Ask me about:**  <br> - JavaScript, CSS, HTML, and any general web development questions.<br><br>⚡ **Fun fact:**  <br> - I love to learning new thing.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__sarah_khatun) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-khatun-a5817a2b6)
 
 # 💻 Tech Stack:
